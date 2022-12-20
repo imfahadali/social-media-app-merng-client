@@ -1,68 +1,36 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# Social Media App
 
-## Available Scripts
+![](https://github.com/imfahadali/social-media-app-merng-client/tree/main/src/assets)
 
-In the project directory, you can run:
 
-### `npm start`
+**Description:**
 
-Runs the app in the development mode.<br>
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+Social media app built with the MERN stack and GraphQL is modern sleek, feature-rich platform for sharing posts with friends.
 
-The page will reload if you make edits.<br>
-You will also see any lint errors in the console.
+The frontend of the app, built with React, provide a smooth and intuitive user interface for browsing and interacting with the app. It includes features such as:
 
-### `npm test`
+ 1. News feed for seeing updates from friends,
+ 2. Ability to post and view posts.
+ 3. Like post.
+ 4. Comment post  
+ 5. Delete Post.
+ 6. Create Post
 
-Launches the test runner in the interactive watch mode.<br>
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+The backend of the app, built with Node.js and the Express framework, would handle the server-side logic and communication with the database. It uses GraphQL to provide a flexible and efficient way for the frontend to request data, such as user profiles, post feeds. The backend also use MongoDB to store and retrieve data for the app, such as user accounts, posts, and comments and likes.
 
-### `npm run build`
+Overall, This app would be a powerful and engaging platform for users to connect with each other and share their thoughts.
 
-Builds the app for production to the `build` folder.<br>
-It correctly bundles React in production mode and optimizes the build for the best performance.
 
-The build is minified and the filenames include the hashes.<br>
-Your app is ready to be deployed!
+# Tech/Tools
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
-
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (Webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/code-splitting
-
-### Analyzing the Bundle Size
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size
-
-### Making a Progressive Web App
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app
-
-### Advanced Configuration
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/advanced-configuration
-
-### Deployment
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/deployment
-
-### `npm run build` fails to minify
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+ 1. React
+ 2. Node.js
+ 3. Mongoose
+ 4. Express
+ 5. GraphQL
+ 6. Apollo
+ 7. Json Web Token
+ 8. Moment
+ 9. Semantic UI
+ 10. React-Router-DOM
+  
