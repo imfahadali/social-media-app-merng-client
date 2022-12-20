@@ -1,6 +1,6 @@
 # Social Media App
 
-![](https://github.com/imfahadali/social-media-app-merng-client/tree/main/src/assets)
+![](https://github.com/imfahadali/social-media-app-merng-client/blob/main/src/assets/socia-media-app.gif)
 
 
 **Description:**
