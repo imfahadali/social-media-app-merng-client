@@ -7,7 +7,7 @@ import { ApolloProvider } from '@apollo/react-hooks';
 import { setContext } from 'apollo-link-context';
 
 const httpLink = createHttpLink({
-  uri: 'https://brave-aviary-372113.uc.r.appspot.com/'
+  uri: 'https://social-media-386501.de.r.appspot.com/'
 });
 
 const authLink = setContext(() => {
